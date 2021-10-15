@@ -1,0 +1,36 @@
+/* */
+:root {
+    --wordmark-text: "Discord";
+}
+
+:root {--outdated_bloop-001: none !important; --version: "0.0.1 (BETA)" !important; --build: "001" !important}
+
+.withFrame-haYltI {
+  height: 34px;
+  margin-top: 4px;
+}
+.titleBar-AC4pGV {
+  z-index: 3001;
+  -webkit-app-region: drag;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+}
+
+.winButton-iRh8-Z {
+  transform: scale(1);
+  height: 38px;
+  width: 39px;
+  margin-top: 0px;
+}
+
+.wordmark-2iDDfm:after {
+  color: rgb(247, 245, 245);
+  content: ""var(--wordmark-text)" " var(--version)"";
+  font-size: 14.5px;
+  font-weight: 700;
+  position: absolute;
+  width: 4000px;
+  top: 12px;
+  left: 14px;
+}
+.wordmark-2iDDfm > svg {width: 0px;}
