@@ -1,7 +1,7 @@
 {	
 "name": "Bloop",
 "description": "A Bloop Personal Theme",
-"version": "0.0.1",
+"version": "0.0.5",
 "author": "Leeprky#2063",
 "license": "MIT",
 "theme": "bloop-config.css",
