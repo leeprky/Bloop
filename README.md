@@ -1,4 +1,4 @@
-# name (v - Latest)
+# Bloop (v0.0.6 - Latest)
 Desc
 
 ![preview](https://cdn.discordapp.com/attachments/825845432293785693/907286293875159050/unknown.png)
@@ -12,12 +12,12 @@ For **Powercord** Users:
 1. Open CMD & Type:
 
 ```
-cd powercord/src/Powercord/themes && git clone https://github.com/leeprky/name
+cd powercord/src/Powercord/themes && git clone https://github.com/leeprky/Bloop
 ```
 
 For **Betterdiscord** Users:
 
-1. CLick > [Download]()
+1. CLick > [Download](https://github.com/leeprky/Bloop/blob/lode/betterdiscord/bloop-theme.css)
 2. Download Raw
 
 For **Goosemod** Users:
