@@ -623,7 +623,7 @@ position: relative;
     filter: drop-shadow(var(--avatar-glow) var(--rs-online-color));
   }
   
-  #app-mount .wrapper-3t9DeA svg:not(:root){overflow:visible}
+#app-mount .wrapper-3t9DeA svg:not(:root){overflow:visible}
 #app-mount .wrapper-3t9DeA foreignObject{-webkit-mask:none;mask:none}
 #app-mount .wrapper-3t9DeA .dots-3Bkt3k circle:nth-child(1){cy:-8!important;cx:-8.5!important}
 #app-mount .wrapper-3t9DeA .dots-3Bkt3k circle:nth-child(2){cy:-8!important;cx:-2.25!important}
@@ -720,4 +720,3 @@ rect.pointerEvents-2zdfdO, .item-2hkk8m, .unread-2lAfLh, .homeIcon-AaowEC {
 .buttons-3JBrkn {
   padding-right: 10px;
 }
-
