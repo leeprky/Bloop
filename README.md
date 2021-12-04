@@ -1,7 +1,7 @@
-# Bloop (v0.0.6 - Latest)
+# Bloop (v1.0.0 - Latest)
 Desc
 
-![preview](https://cdn.discordapp.com/attachments/825845432293785693/907286293875159050/unknown.png)
+![preview](https://cdn.discordapp.com/attachments/825845432293785693/916534391143026729/unknown.png)
 
 ## How To Install name?
 
@@ -27,13 +27,9 @@ For **Goosemod** Users:
 
 #Screenshots
 
-Darkmode
+Glasscord:
 
-![preview]()
-
-Lightmode
-
-![preview]()
+![preview](https://cdn.discordapp.com/attachments/825845432293785693/916534391143026729/unknown.png)
 
 # Extras 
 
