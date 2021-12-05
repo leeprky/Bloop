@@ -18,7 +18,7 @@
   --glasscord-win-blur: blurbehind;
   --glasscord-linux-blur: true;
   --glasscord-macos-vibrancy: fullscreen-ui;
-  --glasscord-blur-corner-radius: 8px;
+  --glasscord-blur-corner-radius: 20px;
   --background-accent: var(--glasscord-accent); 
   --background-floating: var(--glasscord-floating); 
   
@@ -29,19 +29,14 @@
   --glasscord-tertiary: #1011132f !important;
   --glasscord-floating: #101214e8 !important;
   --glasscord-backdrop: 0.55 !important;
-  
-}
-body, #app-mount, .app-2rEoOp, .appMount-3lHmkl {
-	background-color: transparent;
-	border-radius: var(--glasscord-blur-corner-radius);
 }
 /* */
 
 .theme-dark {
 
     /* Main Colours - Try Keep These The Same */
-    --main-colour: 75, 73, 133; /* RGB ONLY */
-    --main-colour2: #4b4985; /* HEX ONLY */
+    --main-colour: 190, 64, 88; /* RGB ONLY */
+    --main-colour2: #be4058; /* HEX ONLY */
     --main-colour3: 349; /* HSL ONLY */
   
     /* Green Colours */
@@ -101,11 +96,11 @@ body, #app-mount, .app-2rEoOp, .appMount-3lHmkl {
     --button-interactive-muted: #5b5e61;
   
     /* Backgrounds */
-    --main-background: #292841;
-    --main-background-alternative: #201f33;
-    --secondary-background: #232438;
-    --secondary-background-alternative: #1b1b2b;
-    --tertiary: #181926;
+    --main-background: #1f2024;
+    --main-background-alternative: #26282c;
+    --secondary-background: #18191b;
+    --secondary-background-alternative: #141618;
+    --tertiary: #131416;
     --accent: var(--alt-color2);
     --floating: #18191c;
   
@@ -139,3 +134,7 @@ body, #app-mount, .app-2rEoOp, .appMount-3lHmkl {
   }
 
 :root {--outdated_bloop-100: none !important; --version: "1.0.0PC" !important; --build: "100" !important}
+
+.tabBar-11f3uI.top-28JiJ- {
+  background-color: transparent;
+}
