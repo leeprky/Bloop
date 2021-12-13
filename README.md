@@ -1,7 +1,7 @@
 # Bloop (v1.0.0 - Latest)
 Desc
 
-![preview](https://cdn.discordapp.com/attachments/825845432293785693/916534391143026729/unknown.png)
+![preview](https://cdn.discordapp.com/attachments/825845655170973728/920079739618721812/unknown.png)
 
 ## How To Install name?
 
@@ -20,16 +20,11 @@ For **Betterdiscord** Users:
 1. CLick > [Download](https://github.com/leeprky/Bloop/blob/lode/betterdiscord/bloop-theme.css)
 2. Download Raw
 
-For **Goosemod** Users:
-
-1. Search The Store
-2. Import
-
 #Screenshots
 
 Glasscord:
 
-![preview](https://cdn.discordapp.com/attachments/825845432293785693/916534391143026729/unknown.png)
+![preview](https://cdn.discordapp.com/attachments/825845489613930547/920078362083483678/unknown.png)
 
 # Extras 
 
