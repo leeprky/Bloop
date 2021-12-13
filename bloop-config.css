@@ -27,7 +27,7 @@
   --glasscord-secondary-alt: #16171a60 !important;
   --glasscord-accent: var(--alt-color2) !important;
   --glasscord-tertiary: #1011132f !important;
-  --glasscord-floating: #101214e8 !important;
+  --glasscord-floating: #101214 !important;
   --glasscord-backdrop: 0.55 !important;
 }
 /* */
@@ -35,9 +35,9 @@
 .theme-dark {
 
     /* Main Colours - Try Keep These The Same */
-    --main-colour: 190, 64, 88; /* RGB ONLY */
-    --main-colour2: #be4058; /* HEX ONLY */
-    --main-colour3: 349; /* HSL ONLY */
+    --main-colour: 87, 202, 154; /* RGB ONLY */
+    --main-colour2: #57ca9a; /* HEX ONLY */
+    --main-colour3: 155; /* HSL ONLY */
   
     /* Green Colours */
     --green-color: var(--alt-color2); /* HEX ONLY */
