@@ -1,4 +1,4 @@
-# Bloop (v1.0.0 - Latest)
+# Bloop (v1.1.0 - Latest)
 Desc
 
 ![preview](https://cdn.discordapp.com/attachments/825845655170973728/920079739618721812/unknown.png)
