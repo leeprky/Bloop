@@ -18,12 +18,12 @@
   --background-accent: var(--glasscord-accent); 
   --background-floating: var(--glasscord-floating); 
   
-  --glasscord-primary: #14151881 !important;
-  --glasscord-secondary: #0b0b0e60 !important;
-  --glasscord-secondary-alt: #16171a60 !important;
+  --glasscord-primary: #1f2024e8 !important;
+  --glasscord-secondary: #18191bd2 !important;
+  --glasscord-secondary-alt: #18191bcc !important;
   --glasscord-accent: var(--alt-color2) !important;
-  --glasscord-tertiary: #1011132f !important;
-  --glasscord-floating: #101214 !important;
+  --glasscord-tertiary: #131416a4 !important;
+  --glasscord-floating: #18191c !important;
   --glasscord-backdrop: 0.55 !important;
 }
 
