@@ -6,8 +6,15 @@
 @import url(https://raw.githack.com/CorellanStoma/Context-Icons/main/theme.css);
 @import url(https://mr-miner1.github.io/Better-Badges/src/badges.css);
 
+/* Glasscord */
+
 /*
 @import "https://leeprky.github.io/themes/Bloop/source/glasscord.css";
+
+.platform-osx .container-1r6BKw {
+  -webkit-app-region: none;
+}
+
 .sidebar-2K8pFh, .container-3w7J-x {
   background-color: var(--glasscord-secondary) !;
 }
@@ -134,7 +141,3 @@
   }
 
 :root {--outdated_bloop-100: none !important; --version: "1.0.0PC" !important; --build: "100" !important}
-
-.tabBar-11f3uI.top-28JiJ- {
-  background-color: transparent;
-}
