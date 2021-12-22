@@ -1,5 +1,5 @@
 # Bloop (v1.1.0 - Latest)
-Desc
+Rounded Theme
 
 ![preview](https://cdn.discordapp.com/attachments/825845655170973728/920079739618721812/unknown.png)
 
