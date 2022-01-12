@@ -19,6 +19,8 @@
 @import url(https://raw.githack.com/CorellanStoma/Context-Icons/main/theme.css);
 @import url(https://mr-miner1.github.io/Better-Badges/src/badges.css);
 
+:root {--im-aware: none !important} /* Turn To "block to enable */
+
 /* Transparency */
 
 /*
@@ -255,4 +257,4 @@
     --font-normal: 500;--font-hover: bold;--font-size-hover: 15px;--hover-transition: 0.1s linear;--transform-normal: scale(1);--hover-transform: scale(1.15);--setting-hover-transform: scale(1.025);--button-hover-transform: scale(1.03);
   }
 
-:root {--outdated_bloop-110: none !important; --version: "1.1.0PC" !important; --build: "110" !important}
+:root {--outdated_bloop-120: none !important; --version: "1.1.0PC" !important; --build: "120" !important}
