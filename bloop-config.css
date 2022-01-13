@@ -6,8 +6,6 @@
 @import url(https://raw.githack.com/CorellanStoma/Context-Icons/main/theme.css);
 @import url(https://mr-miner1.github.io/Better-Badges/src/badges.css);
 
-:root {--im-aware: none !important} /* Turn To "block to enable */
-
 /* Glasscord */
 
 /*
@@ -57,6 +55,8 @@
 /* @import "https://leeprky.github.io/themes/Bloop/source/schemes/dracula-scheme.css";
 
 /* */
+
+:root {--im-aware: none !important} /* Turn To "block to enable */
 
 .theme-dark {
 
